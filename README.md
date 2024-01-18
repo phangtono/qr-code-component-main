@@ -41,5 +41,3 @@ body{
 }
 
 ```
-
-"# qr-code-component-main" 
